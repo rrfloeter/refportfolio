@@ -1,0 +1,22 @@
+.entrance_button {
+    width: 50%;
+    color: #263238;
+    margin-left: 49%;
+ 
+  }
+ 
+  .intro_name {
+   font-family: 'Sacramento', cursive;
+   font-size: 82px;
+   margin-top: 5%;
+   margin-left: 37%;
+   margin-bottom: -1%;
+  }
+ 
+  .intro_body {
+   font-family: 'Proza Libre', sans-serif;
+   margin-left: 35%;
+   font-size: 24px;
+   margin-bottom: 2%;
+  }
+ 
